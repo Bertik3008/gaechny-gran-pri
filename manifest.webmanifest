@@ -1,0 +1,2 @@
+{"name":"Гаечный Гран-при","short_name":"Гран-при","start_url":"./","scope":"./","display":"fullscreen","orientation":"landscape","background_color":"#DE9F5E","theme_color":"#DE9F5E","lang":"ru",
+"icons":[{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png"},{"src":"icons/icon-1024.png","sizes":"1024x1024","type":"image/png","purpose":"any"}]}
